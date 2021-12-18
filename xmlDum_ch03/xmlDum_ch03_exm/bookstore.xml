@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<books>
+	<book contentType="Fiction" format="Hardback">
+		<bookInfo>
+			<title>The Da Vinci Code</title>
+			<author>Brown. Dan</author>
+			<publisher>Doubleday</publisher>
+			<isbn>0385504209</isbn>
+		</bookInfo>
+		<salesInfo>
+			<price priceType="Retail">$24.95</price>
+			<itemNumber>0385504209-1</itemNumber>
+			<date>January 12, 005</date>
+			<source sourceType="Retail"/>
+			<shipping>$5.00</shipping>
+			<cost>$29.95</cost>
+		</salesInfo>
+	</book>
+
+	<totalCost>$29.95</totalCost>
+	<customer custType="newRetail">
+		<custNumber>5594</custNumber>
+		<lastName>Blow</lastName>
+		<firstName>Joe</firstName>
+		<address>52 Joetta Lane</address>
+		<city>Cottage Grove</city>
+		<state>OR</state>
+		<zip>97424</zip>
+		<phone>767-3333</phone>
+		<email>jblow@pacinfo.com</email>
+	</customer>
+</books>
