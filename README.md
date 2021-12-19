@@ -26,6 +26,12 @@ digraph g1
 |3|HTML|Hyper Text Markup Language|
 |4|XHTML|eXtensible Hyper Text Markup Language|
 |5|DTD|Document Type Definition|
+|6|CSS|Cascade Style Sheet|
+|7|XSL|eXtensible Stylesheet Language|
+|8|XSL-FO||
+|9|XSLT||
+|10|URI|Uniform Resource Identifier|
+|11|URL|Uniform Resource Locator - a type of URI|
 
 
 ---
@@ -42,3 +48,5 @@ digraph g1
 [Chapter 06: Adding Character(s) to XML](xmlDum_ch06):- 
 
 [Chapter 07: Handling Formatting with CSS](xmlDum_ch07):- 
+
+[Chapter 08: Understanding and Using DTDs](xmlDum_ch08):- 
