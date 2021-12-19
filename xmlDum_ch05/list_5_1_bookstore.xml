@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="bookstore.css"?>
+<books>
+	<book contentType="" format="">
+		<bookInfo>
+			<title></title>
+			<author></author>
+			<publisher></publisher>
+			<isbn></isbn>
+		</bookInfo>
+		<salesInfo>
+			<price priceType=""></price>
+			<itemNumber></itemNumber>
+			<date></date>
+			<source sourceType=""/>
+			<shipping></shipping>
+			<cost></cost>
+		</salesInfo>
+	</book>
+	<totalCost></totalCost>
+	<customer custType="">
+		<custNumber></custNumber>
+		<lastName></lastName>
+		<firstName></firstName>
+		<address></address>
+		<city></city>
+		<state></state>
+		<zip></zip>
+		<phone></phone>
+		<email></email>
+	</customer>
+</books>
