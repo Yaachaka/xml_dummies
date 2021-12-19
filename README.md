@@ -38,3 +38,5 @@ digraph g1
 [Chapter 04: Adding XHTML for the Web](xmlDum_ch04):- 
 
 [Chapter 05: Putting Together an XML File](xmlDum_ch05):- 
+
+[Chapter 06: Adding Character(s) to XML](xmlDum_ch05):- 
